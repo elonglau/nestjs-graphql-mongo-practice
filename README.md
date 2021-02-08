@@ -11,35 +11,35 @@ Containing real world examples(CURD, auth, project & member management etc.)
 
 ## Functions
 1. Authenticate
-  • Config jwt + passport
-  • Access token validate
+  - Config jwt + passport
+  - Access token validate
 2. Guards
-  • Graphql Guard
-  • Local Guard
-  • Roles Guard
+  - Graphql Guard
+  - Local Guard
+  - Roles Guard
 3. TypeORM
-  • Modal Entity
-  • Validation
+  - Modal Entity
+  - Validation
 4. Datebase config
-  • MongoDB
-  • MySQL
-  • PostgreSQL
+  - MongoDB
+  - MySQL
+  - PostgreSQL
 5. GraphQL
-  • Config integrate
-  • Query 
-  • Mutation
-  • Subscription
+  - Config integrate
+  - Query 
+  - Mutation
+  - Subscription
 6. REST API
-  • POST
-  • GET
-  • PUT
+  - POST
+  - GET
+  - PUT
 7. Logger
-  • NestJS Logger
-  • Winston
+  - NestJS Logger
+  - Winston
 8. Task scheduler
-  • Corn
+  - Corn
 9. Test
-  • E2e
+  - E2e
 
 ## Installation
 
