@@ -4,7 +4,6 @@ type User {
     _id: String
     name: String
     email: String
-    passward: String
     createAt: Date
     updateAt: Date
     isActive: Boolean
@@ -13,5 +12,7 @@ type User {
 }
 
 type Query {
+    me: User!
     users: [User]!
+    user(id: String!): User!
 }
