@@ -75,3 +75,4 @@ $ npm run test:cov
 
 
 ## Todo...
+   [-] User role
